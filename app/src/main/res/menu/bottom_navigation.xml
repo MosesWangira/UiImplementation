@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/home"
+            android:enabled="true"
+            android:icon="@drawable/searcher"
+            android:title="Home"
+            app:labelVisibilityMode="auto"
+            tools:ignore="UnusedAttribute" />
+
+        <item
+            android:id="@+id/ordersOnline"
+            android:enabled="true"
+            android:icon="@drawable/searcher"
+            android:title="Courses"
+            app:labelVisibilityMode="auto"
+            tools:ignore="UnusedAttribute" />
+
+        <item
+            android:id="@+id/bill"
+            android:enabled="true"
+            android:icon="@drawable/searcher"
+            android:title="Profile"
+            app:labelVisibilityMode="auto"
+            tools:targetApi="o" />
+    </group>
+
+</menu>

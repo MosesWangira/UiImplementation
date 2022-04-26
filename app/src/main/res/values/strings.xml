@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adanian Lab UI quiz</string>
+    <string name="hi_antonio">Hi, Antonio</string>
+    <string name="_4_of_8_lessons">4 of 8 lessons</string>
+    <string name="bio_description"><![CDATA[Biology & The\nScientific Method]]></string>
+    <string name="lorem">In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.</string>
+</resources>
